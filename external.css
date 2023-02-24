@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h3 {
+    text-align: center;
+    color: gold;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: cadetblue;
+}
+header {
+    position: sticky;
+    top:0;
+    padding:40px;
+    background: rgb(128, 137, 139);
+    text-align: center;
+  }
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button{
+    background-color: brown;
+}
